@@ -8,11 +8,12 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
   - `queries_examples.sql` – ausgewählte SQL-Abfragen (`JOIN`s, Aggregationen usw.) aus den Übungen.
 
 - **/sql**
-  - `01_schema_base.sql` – Basisschema mit den Tabellen  
-  `Kunden`, `Bestellungen`, `Bestellpositionen`, `Artikel`, `Konditionen`, `Lieferanten`.
-  - `02_sample_data.sql` – Beispieldatensätze für alle Tabellen (u. a. zum Testen von Queries).
-  - `03_extensions_geschaeftspartner.sql` – Erweiterung zur gemeinsamen Tabelle
-  `GESCHÄFTSPARTNER` inklusive Sequence und ALTER TABLE Befehlen.
+  - `01_schema_base.sql`
+    - Basisschema mit den Tabellen `Kunden`, `Bestellungen`, `Bestellpositionen`, `Artikel`, `Konditionen`, `Lieferanten`
+  - `02_sample_data.sql`
+    - Beispieldatensätze für alle Tabellen (u. a. zum Testen von Queries)
+  - `03_extensions_geschaeftspartner.sql`
+    - Erweiterung zur gemeinsamen Tabelle `GESCHÄFTSPARTNER` inklusive Sequence und ALTER TABLE Befehlen
 
 - **Steven Illg - Datenbankerstellung mit SQL.pdf**
 
@@ -41,5 +42,6 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 Die Skripte sind an Oracle SQL Developer angelehnt (`NUMBER`, `VARCHAR2`, `DATE`). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. 
 
 Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+
 
 
