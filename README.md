@@ -1,5 +1,9 @@
 # Datenbankerstellung mit SQL
 
+<p align="center">
+  <img src="cover.jpg" alt="Cover: Datenbankerstellung mit SQL" width="300">
+</p>
+
 Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachbuch, das die vollständige Ausarbeitung der ersten fünf Praktikumsaufgaben des Moduls Informationssysteme I umfasst. Anhand eines durchgehenden Beispiels zeige ich, wie relationale Datenbanken für ein Handelsunternehmen modelliert und Schritt für Schritt mit SQL umgesetzt werden. Von den ersten SQL-Anweisungen über `CREATE TABLE`, `ALTER TABLE`, `INSERT`, über Schlüsselkonzepte und Integritätsbedingungen, bis hin zu komplexe Queries, Views und Erweiterungen.
 
 ## Inhalt
@@ -42,6 +46,7 @@ Dieses Repository enthält das Begleitmaterial zu meinem selbst verfasstes Fachb
 Die Skripte sind an Oracle SQL Developer angelehnt (`NUMBER`, `VARCHAR2`, `DATE`). Bei anderen SQL-Dialekten können kleinere Anpassungen notwendig sein. 
 
 Erstellt wurde das Werk im Sommersemester 2015 im Rahmen des Wirtschaftsinformatik-Studiums an der HAW Hamburg. Es dient als verständlich erklärtes Beispiel für die Datenbankentwicklung mit SQL und zeigt meinen strukturierten und analytischen Ansatz bei der Lösungsdokumentation.
+
 
 
 
